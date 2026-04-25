@@ -12,7 +12,7 @@ Upon begin button pressed you see the emojis that you have to memorize
 Then you have to wait (optional)
 <img width="1775" height="998" alt="c" src="https://github.com/user-attachments/assets/b48917a9-1a96-47e0-8f6a-17abb0189507" />
 
-Then choose only the correct items. Wrong answers permanently decreas your current score, so be careful.
+Then choose only the correct items. Wrong answers permanently decrease your current score, so be careful.
 <img width="1765" height="993" alt="d" src="https://github.com/user-attachments/assets/7ab28053-8027-47db-b2fa-526c111868e6" />
 
 The result screen
