@@ -33,17 +33,10 @@ func fill_emoji_list() -> void:
 func on_begin() -> void:
 	$RestartButton.visible = true
 	$DoneButton.visible = true
-	$CurrentStateDisplay.text = "Memorize the emoticons"
+	$CurrentStateDisplay.text = "Memorize the items"
 	
 	$Audio.stream = success_sound
 	$Audio.play()
-	
-	#$BeginButton.visible = false
-	#$NmrOfElements.visible = false
-	#$TimeToMemorize.visible = false
-	#$IdleTime.visible = false
-	#$AllowedEmojis.visible = false
-	#$AnswerTime.visible = false
 	
 	$view.visible = false
 	$Score.visible = false
@@ -124,13 +117,6 @@ func _ready() -> void:
 func on_restart() -> void:
 	$RestartButton.visible = false
 	$DoneButton.visible = false
-	
-	#$BeginButton.visible = true
-	#$NmrOfElements.visible = true
-	#$TimeToMemorize.visible = true
-	#$IdleTime.visible = true
-	#$AllowedEmojis.visible = true
-	#$AnswerTime.visible = true
 	$view.visible = true
 	$Score.visible = true
 	$IconList.visible = true
