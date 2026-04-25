@@ -25,3 +25,4 @@ todo:
 - add a clock ticking sound in between screens
 - add proper referencing to authors of used sounds
 - add screen ratio settings to the main screen
+- make emojis work on linux systems...
