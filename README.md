@@ -1,7 +1,7 @@
 # memorize-emojis
 A small app made in Godot. Memorize the list of given emojis to train your memory. That's all.
 
-(currently doesn't work on linux properly)
+(currently doesn't display emojis on linux systems properly, unless you have them installed)
 
 ___
 
