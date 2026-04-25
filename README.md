@@ -24,3 +24,4 @@ todo:
 - add automatic score export&import to/from a .txt/.cfg file
 - add a clock ticking sound in between screens
 - add proper referencing to authors of used sounds
+- add screen ratio settings to the main screen
